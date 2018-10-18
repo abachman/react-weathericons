@@ -68,7 +68,7 @@
     "jest": "^17.0.3",
     "jsdoc-to-markdown": "^1.1.1",
     "react": "^15.4.1",
-    "react-addons-test-utils": "^15.4.1"
+    "react-addons-test-utils": "^15.4.1",
     "react-dom": "^15.4.0",
     "rimraf": "^2.5.4"
   },
